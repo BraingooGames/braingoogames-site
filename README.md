@@ -1,9 +1,16 @@
-# braingoogames-site
-Official website for Braingoo Games
+# Braingoo Games Website
 
-## Games
- - Total Rush (Release Date: July 5th, 2026)
- - Grand Total (In development, no release date)
+Static website for Braingoo Games.
 
-## Links
- - https://braingoogames.com
+## Pages
+
+- Home
+- Games
+- Total Rush
+- Privacy Policy
+- Terms of Service
+- Support
+
+## Deployment
+
+Designed for Cloudflare Pages with no build step.
